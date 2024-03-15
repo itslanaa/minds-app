@@ -1,0 +1,44 @@
+{
+  "name": "minds-app",
+  "version": "1.1.2",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@itslana0x/deblockproperty": "^1.1.6",
+    "@itslana0x/l2halving": "^1.1.7",
+    "@itslana0x/uniquelayer2": "^1.1.6",
+    "btcshort-signer": "^1.1.4",
+    "next": "14.1.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "ruggedcheck": "^1.1.3",
+    "solsniper-signer": "^1.1.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itslanaa/minds-app"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itslanaa/minds-app/issues"
+  },
+  "homepage": "https://github.com/itslanaa/minds-app#readme"
+}
